@@ -1,0 +1,4 @@
+autoprefixer-cli   ma czytaæ z pliku style.css i zapisywaæ wynik do pliku style.prefixed.css (mo¿esz przetestowaæ dzia³anie Autoprefixera np. wpisuj¹c w pliku style.css regu³ê z display: flex),
+
+
+nu-html-checker     ma wyœwietlaæ listê b³êdów we wszystkich plikach .html.
