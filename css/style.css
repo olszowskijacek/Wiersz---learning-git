@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    
+}
+.container {
+    text-align: center;
+    background: #7DAED9;
+    height: 100vh;
+    padding: 15px;
+}
+.author {
+    font-size: 50px;
+    letter-spacing: 1px;
+}
+.title {
+    font-size: 35px;
+}
+.text {
+    font-size: 25px;
+}
+pai
